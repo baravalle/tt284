@@ -3,13 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Hello $_SERVER</title>
+    <title>Hello constant</title>
 </head>
 
 <body>
     <?php
-    print_r($_SERVER);
+    define("CONSTANT", "Hello world");
+    echo CONSTANT;
     ?>
+
 </body>
 
 </html>

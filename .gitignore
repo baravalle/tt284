@@ -1,8 +1,6 @@
+# Ignoring working files
 block2_part5
 block2_part6
-*.html
 *.sh
 
-# Ignoring working files
-*.tsv
-*.gz
+
