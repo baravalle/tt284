@@ -10,7 +10,7 @@
     <?php
     for ($a = 0; $a < 10; $a++) {
         //  we are concatenating the value of $a with a line break
-        echo $a  . "<br>\n";
+        echo $a  . "<br>";
     }
     ?>
 
